@@ -4,7 +4,7 @@
 
 ## 如何部署在 Heroku 平台上
 
-### 1.准备工作
+### 1.准备工作 :
 * [Heroku](https://signup.heroku.com/) 注册
 * [GitHub](https://github.com/join?source=header-home) 注册
 
